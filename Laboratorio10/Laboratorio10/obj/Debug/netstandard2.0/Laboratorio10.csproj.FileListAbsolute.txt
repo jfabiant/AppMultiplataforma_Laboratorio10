@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\Laboratorio10.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\netstandard2.0\Laboratorio10.deps.json
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\netstandard2.0\Laboratorio10.dll
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\bin\Debug\netstandard2.0\Laboratorio10.pdb
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\views\InteractiveDemo.xaml.g.cs
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\views\SimpleDemo.xaml.g.cs
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\Laboratorio10.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\Laboratorio10.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\Laboratorio10.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\Laboratorio10.dll
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\Laboratorio10.pdb
+C:\Users\Alumno\source\repos\Laboratorio10\Laboratorio10\Laboratorio10\obj\Debug\netstandard2.0\views\Operaciones.xaml.g.cs
